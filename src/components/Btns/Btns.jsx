@@ -5,8 +5,9 @@ import "./btns.css";
 const ButtonEvent = () => {
   return (
     <>
+
       <IconButton className="btn">
-        <img width={20} src={paper} alt="" />
+        <img width={20} src={paper} alt="icon" />
       </IconButton>
     </>
   );
