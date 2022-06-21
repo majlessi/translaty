@@ -1,0 +1,19 @@
+.title {
+  font-family: "Kalameh";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 55px;
+  line-height: 75px;
+  color: #4a51d7;
+}
+.TitleBox{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.emoji{
+  width: 60px;
+height: 60px;
+margin-left: 17px;
+}

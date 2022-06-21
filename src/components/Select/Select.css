@@ -1,0 +1,25 @@
+.selectBox{
+    background: #4A51D7;
+    border-radius: 30px;
+    width: 700px;
+    height: 103px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+}
+.box p {
+    font-family: 'Kalameh';
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 41px;
+color: white;
+}
+.avatar{
+    margin-right: 10px;
+}
